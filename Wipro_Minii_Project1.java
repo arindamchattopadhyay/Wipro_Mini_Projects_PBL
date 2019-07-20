@@ -9,7 +9,7 @@ public class Wipro_Minii_Project1 {
 	public static void main(String args[])
 	{
 		Scanner sc=new Scanner(System.in);
-		int ch=0,s=0;
+		int s=0;
 		LinkedHashMap<String,Integer> ob=new LinkedHashMap<>();
 		TreeMap<String,Integer> ob1=new TreeMap<>();
 		
